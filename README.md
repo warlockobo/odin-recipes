@@ -1,0 +1,1 @@
+The current project is to create a main index page in HTML and fill it with a few links to recipes. I will demonstrate my knowledge of HTML setup, images, and links.
